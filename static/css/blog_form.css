@@ -1,0 +1,31 @@
+.main {
+    position: relative;
+    left: 15%;
+    width: 70%;
+    height: 100%;
+    padding: 20px;
+}
+
+.box {
+    border: hidden;
+}
+
+.title {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+input:focus,
+textarea:focus {
+    outline: none;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
